@@ -1,13 +1,3 @@
-# Semester Web Development Portfolio
+# Semester Web Development Coursework
 
-## Project Purpose
-This repository serves as the central location for all web development coursework, lab exercises, and semester assignments. It demonstrates proficiency in HTML, CSS, JavaScript, and Git version control.
-
-## Repository Structure
-- `index.html` - Primary homepage for the coursework portfolio
-- `css/` - Directory for custom stylesheets
-- `js/` - Directory for client-side scripts
-- `assets/` - Directory for images and static assets
-
-## Version Control
-Managed using Git and hosted on GitHub following modular commit practices.
+This repository contains my semester web development coursework and projects. The current project is a starter web page created using HTML. The main file in the project is `index.html`, which provides the basic starting point for my web development coursework. This project will be developed further as I progress through the coursework and apply the concepts learned during the semester.
